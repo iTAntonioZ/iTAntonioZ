@@ -38,6 +38,7 @@ async function fetchDataAndUse() {
 User()
 ```
 `Console Log:`
+Datos obtenidos:
 - 🍀 › I'm a programmer specialized in Discord bots with 5 years of experience.
 - 🔵 › **Discord Bot's**: `Xiria Bot and Wolf Girl`
 - 🟠 › **Programming Languages**: `Python, JavaScript, C++, TypeScript.`
