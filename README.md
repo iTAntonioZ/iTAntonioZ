@@ -40,8 +40,9 @@ User()
 `Console Log:`
 Datos obtenidos:
 - 🍀 › I'm a programmer specialized in Discord bots with 5 years of experience.
-- 🔵 › **Discord Bot's**: `Xiria Bot and Wolf Girl`
-- 🟠 › **Programming Languages**: `Python, JavaScript, C++, TypeScript.`
+- 🔵 › **Discord Bot's**: `Xiria Bot`
+- 🟠 › **Programming Languages**: `Python, JavaScript, C++, TypeScript, HTML, CSS`
+- 🍯 › **Frameworks**: `React, NextJS, Vue, Tailwind css`
 - 🟢 › **Collaborator**: `Neenbyss`
 - ♥️ › I love cats and dogs
 
