@@ -43,7 +43,6 @@ Datos obtenidos:
 - 🔵 › **Discord Bot's**: `Xiria Bot`
 - 🟠 › **Programming Languages**: `Python, JavaScript, C++, TypeScript, HTML, CSS`
 - 🍯 › **Frameworks**: `React, NextJS, Vue, Tailwind css`
-- 🟢 › **Collaborator**: `Neenbyss`
 - ♥️ › I love cats and dogs
 
 # 📊 ⁊ Github Analytics 
