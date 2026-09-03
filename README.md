@@ -40,11 +40,13 @@ User()
 `Console Log:`
 Datos obtenidos:
 - 🍀 › I'm a programmer specialized in Discord bots with 5 years of experience.
+- 🐺 › Coolider of the `AAAIMX` **software division**
 - 🔵 › **Discord Bot's**: `Xiria Bot`
 - 🟠 › **Programming Languages**: `Python, JavaScript, C++, TypeScript, HTML, CSS`
 - 🍯 › **Frameworks**: `React, NextJS, Vue, Tailwind css`
 - ♥️ › I love cats and dogs
 
+<!--
 # 📊 ⁊ Github Analytics 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=iTAntonioZ&theme=react&show_icons=true&include_all_commits=true" />
